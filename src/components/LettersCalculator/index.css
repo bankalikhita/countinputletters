@@ -1,0 +1,35 @@
+/* Write your code here. */
+.gradient {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 150px;
+}
+.image {
+  height: 430px;
+  width: 430px;
+}
+.countdiv {
+  color: #ffffff;
+}
+.input {
+  background-color: transparent;
+  color: white;
+  border-color: white;
+  border-style: solid;
+  outline: none;
+  height: 30px;
+}
+.button {
+  background-color: #e4e7eb;
+  color: #219a6f;
+  border-radius: 10px;
+  width: 150px;
+  height: 50px;
+  text-align: center;
+  padding-top: 13px;
+}
